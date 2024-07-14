@@ -19,7 +19,7 @@ The attributions between Train data and Test data are almost same.
 Setting weights in the loss function to favour tpr/fpr of boosting machine might work.
 
 # CNN verus lightgbm
-https://www.kaggle.com/competitions/isic-2024-challenge/discussion/518818
+https://www.kaggle.com/competitions/isic-2024-challenge/discussion/518818 \
 Ensembling is a better way. \
 He showed us a lot of references for this competition.
 
@@ -29,5 +29,9 @@ https://www.kaggle.com/competitions/isic-2024-challenge/discussion/515303
 # Onboarding materials and references
 https://www.kaggle.com/competitions/isic-2024-challenge/discussion/515341 \
 He summrized past competition highlights.
+
+# Augmentation 
+https://www.kaggle.com/competitions/isic-2024-challenge/discussion/517141 \
+He showed us the way of augmentations in the past competitions.
 
 
