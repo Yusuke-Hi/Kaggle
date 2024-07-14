@@ -18,7 +18,7 @@ The attributions between Train data and Test data are almost same.
 ! Ensembling Boosting and CNN is a good way of improving PAUC.\
 Setting weights in the loss function to favour tpr/fpr of boosting machine might work.
 
-♯ CNN verus lightgbm
+# CNN verus lightgbm
 https://www.kaggle.com/competitions/isic-2024-challenge/discussion/518818
 Ensembling is a better way. \
 He showed us a lot of references for this competition.
