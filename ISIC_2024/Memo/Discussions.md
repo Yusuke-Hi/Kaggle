@@ -34,4 +34,8 @@ He summrized past competition highlights.
 https://www.kaggle.com/competitions/isic-2024-challenge/discussion/517141 \
 He showed us the way of augmentations in the past competitions.
 
+# Removal hair
+https://www.kaggle.com/competitions/isic-2024-challenge/discussion/519735
+
+
 
