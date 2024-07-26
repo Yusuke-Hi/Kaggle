@@ -37,5 +37,9 @@ He showed us the way of augmentations in the past competitions.
 # Removal hair
 https://www.kaggle.com/competitions/isic-2024-challenge/discussion/519735
 
+# Noise data
+https://www.kaggle.com/competitions/isic-2024-challenge/discussion/521145 \
+She found close fabric image as a noise data. \
+How we do clensing is important. \
 
 
