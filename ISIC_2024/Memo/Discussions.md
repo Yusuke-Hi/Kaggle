@@ -41,5 +41,7 @@ https://www.kaggle.com/competitions/isic-2024-challenge/discussion/519735
 https://www.kaggle.com/competitions/isic-2024-challenge/discussion/521145 \
 She found close fabric image as a noise data. \
 How we do clensing is important. \
+I might make a flg to such images(ids) as irregular. \
+Or remove from train data? 
 
 
