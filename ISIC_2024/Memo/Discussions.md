@@ -11,6 +11,10 @@ He resized datasets in 2017, 2018, 2019, 2020.
 
 ! 3 species cansers was classified in model head by last(2020) winner.
 
+refference kernel\
+https://www.kaggle.com/code/samu2505/isic-pytorchmodel-training#Model-training \
+https://www.kaggle.com/code/nikitababich/basic-eda-and-baseline-efficientnet-b0-lb-0-12
+
 # Test Data Attributions
 https://www.kaggle.com/competitions/isic-2024-challenge/discussion/517139 \
 The attributions between Train data and Test data are almost same.
