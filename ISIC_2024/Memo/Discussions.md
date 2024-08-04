@@ -6,7 +6,7 @@ He resized datasets in 2017, 2018, 2019, 2020.
 ! 1.Pretraining with previous data.\
 ! 2.Fine-tuning with current data.
 
-! 1. union previous data in currentdata\
+! 1. union previous data in currentdata -> Got bad LB-Score\
 ! 2. Pretraining with previous data and fine-tuning with current data.
 
 ! 3 species cansers was classified in model head by last(2020) winner.
